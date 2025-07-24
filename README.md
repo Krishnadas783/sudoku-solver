@@ -8,7 +8,7 @@ A simple and interactive **Sudoku Solver web app** built using HTML, CSS, and Ja
 - Client-side JavaScript-based solving logic
 - Clear board & Solve buttons
 - Real-time input validation (only allows numbers 1–9)
-
+- Keep avoid the placing of digit in a same column and row
 ## 📁 Project Structure
 
 
